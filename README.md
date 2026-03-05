@@ -1,23 +1,27 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+sus-archy+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+sus-archy;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🔭 I'm currently working on exciting open-source projects
-- 🌱 I'm always learning new technologies and best practices
-- 👯 I'm open to collaborating on interesting ideas
-- 💬 Ask me about anything — happy to help!
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+- I'm currently working on exciting open-source projects
+- I'm always learning new technologies and best practices
+- I'm open to collaborating on interesting ideas
+- Ask me about anything — happy to help!
+- Fun fact: I debug with `console.log` and I'm not ashamed
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -32,9 +36,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Development GIF"/>
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -51,7 +59,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -59,21 +67,16 @@
 
 </div>
 
----
-
-## 📫 Let's Connect
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sus--archy-181717?style=for-the-badge&logo=github)](https://github.com/sus-archy)
-
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacking GIF"/>
 </div>
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-*Profile views:*  
-![Profile Views](https://komarev.com/ghpvc/?username=sus-archy&color=58A6FF&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-sus--archy-181717?style=for-the-badge&logo=github)](https://github.com/sus-archy)
 
 </div>
