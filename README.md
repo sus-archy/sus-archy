@@ -9,17 +9,6 @@
   <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
----
-
-## About Me
-
-- I'm currently working on exciting open-source projects
-- I'm always learning new technologies and best practices
-- I'm open to collaborating on interesting ideas
-- Ask me about anything — happy to help!
-- Fun fact: I debug with `console.log` and I'm not ashamed
-
----
 
 ## Tech Stack
 
@@ -62,8 +51,6 @@
 ## Contribution Graph
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sus-archy/sus-archy/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
