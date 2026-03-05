@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="800" hight="700" alt="Coding Animation"/>
 </div>
 
 
@@ -46,10 +46,3 @@
 
 </div>
 
-## Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sus--archy-181717?style=for-the-badge&logo=github)](https://github.com/sus-archy)
-
-</div>
