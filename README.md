@@ -23,8 +23,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sus-archy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sus-archy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sus-archy&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&cache_seconds=1800&hide=prs,issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sus-archy&layout=compact&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
 
 </div>
 
@@ -33,4 +33,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sus-archy&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
