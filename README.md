@@ -1,14 +1,6 @@
 <div align="center">
-
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+sus-archy;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome)](https://git.io/typing-svg)
-
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Hacking GIF"/>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="800" hight="700" alt="Coding Animation"/>
-</div>
-
 
 ## Tech Stack
 
@@ -23,10 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacking GIF"/>
 </div>
 
 ---
