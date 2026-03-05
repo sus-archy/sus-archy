@@ -23,12 +23,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<div align="center">
+
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Development GIF"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacking GIF"/>
 </div>
-
 ---
 
 ## GitHub Stats
@@ -45,20 +46,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sus-archy&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacking GIF"/>
-</div>
-
----
 
 ## Let's Connect
 
