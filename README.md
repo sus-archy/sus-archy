@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAc3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
 </div>
 
 
@@ -23,21 +23,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
-
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacking GIF"/>
 </div>
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sus-archy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sus-archy&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sus-archy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sus-archy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 
 </div>
 
