@@ -57,10 +57,10 @@ sus-archy@warroom:~$ ./init_session.sh --analyst
 
 | PROJECT          | BRIEF                                                  | STATE                                                                       |
 | :--------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------- |
-| `ioc-forge`      | IOC collection &amp; enrichment pipeline                | ![BUILDING](https://img.shields.io/badge/BUILDING-ffb000?style=flat-square)  |
-| `sigma-lab`      | Detection rule library mapped to ATT&amp;CK            | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ff5252?style=flat-square)      |
-| `apt-fieldnotes` | Threat actor profiles &amp; infrastructure tracking     | ![RESEARCH](https://img.shields.io/badge/RESEARCH-e6edf3?style=flat-square)  |
-| `triage-bench`   | Malware triage workflow &amp; YARA rule set             | ![INCUBATING](https://img.shields.io/badge/INCUBATING-ffb000?style=flat-square) |
+| [`MOB_pentest`](https://github.com/sus-archy/MOB_pentest) | Mobile application penetration testing toolkit &amp; methodology | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
+| [`deltati-api`](https://github.com/codextechorg/deltati-api) | Backend API for graduation project (codextechorg) | ![PRIVATE](https://img.shields.io/badge/PRIVATE-ff5252?style=flat-square) |
+| [`Log-Analyzer`](https://github.com/sus-archy/Log-Analyzer) | Log parsing &amp; analysis for SIEM triage and DFIR investigations | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
+| [`Android-Forensics`](https://github.com/sus-archy/Android-Forensics) | Android artifact acquisition &amp; mobile forensics research | ![RESEARCH](https://img.shields.io/badge/RESEARCH-e6edf3?style=flat-square) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
 
