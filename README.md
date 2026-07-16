@@ -1,13 +1,13 @@
 <!-- ▒▒ BANNER ▒▒ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:050505,40:7a1f1f,75:b8860b,100:ffb000&amp;text=SUS-ARCHY&amp;fontSize=70&amp;fontColor=ffb000&amp;stroke=ff5252&amp;strokeWidth=1&amp;animation=twinkling&amp;desc=THREAT%20INTELLIGENCE%20::%20OSINT%20::%20DFIR&amp;descSize=18&amp;descColor=e6edf3&amp;descAlignY=72" width="100%" alt="SUS-ARCHY banner">
+  <img src="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:050505,40:7a1f1f,75:b8860b,100:ffb000&amp;text=theOnlyErroX-404&amp;fontSize=70&amp;fontColor=ffb000&amp;stroke=ff5252&amp;strokeWidth=1&amp;animation=twinkling&amp;desc=THREAT%20INTELLIGENCE%20::%20OSINT%20::%20DFIR&amp;descSize=18&amp;descColor=e6edf3&amp;descAlignY=72" width="100%" alt="theOnlyErroX-404 banner">
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CLEARANCE-ANALYST-ffb000?style=flat-square&amp;labelColor=0d1117" alt="Clearance: analyst">
   <img src="https://img.shields.io/badge/STATE-ACTIVE_HUNT-ff5252?style=flat-square&amp;labelColor=0d1117" alt="State: active hunt">
   <img src="https://img.shields.io/badge/DOCTRINE-TRUST_NOTHING,_VERIFY_EVERYTHING-e6edf3?style=flat-square&amp;labelColor=0d1117" alt="Doctrine">
-  <img src="https://komarev.com/ghpvc/?username=sus-archy&amp;style=flat-square&amp;color=ffb000&amp;label=INTRUSIONS%20LOGGED" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=theOnlyErroX-404&amp;style=flat-square&amp;color=ffb000&amp;label=INTRUSIONS%20LOGGED" alt="Profile views">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ffb000,100:0d1117" width="100%" alt="">
@@ -16,13 +16,13 @@
 ## ⟦ 01 ⟧ TERMINAL INTRODUCTION
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;pause=1100&amp;color=FFB000&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=62&amp;lines=root%40sus-archy%3A~%23+whoami;Cyber+Threat+Intelligence+Analyst;Hunting+APTs+::+Mapping+TTPs+::+Enriching+IOCs;Trust+nothing.+Verify+everything." alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;pause=1100&amp;color=FFB000&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=62&amp;lines=root%40theOnlyErroX-404%3A~%23+whoami;Cyber+Threat+Intelligence+Analyst;Hunting+APTs+::+Mapping+TTPs+::+Enriching+IOCs;Trust+nothing.+Verify+everything." alt="Typing introduction">
 </div>
 
 ```console
-sus-archy@warroom:~$ ./init_session.sh --analyst
+theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
 [ BOOT ] war-room v3.1 :: secure session established
-[  OK  ] analyst ......... sus-archy
+[  OK  ] analyst ......... theOnlyErroX-404
 [  OK  ] role ............ Cybersecurity Analyst :: Threat Intelligence
 [  OK  ] mission ......... track actors / map TTPs / enrich IOCs
 [  OK  ] disciplines ..... CTI | OSINT | DFIR | malware triage | detection eng.
@@ -57,10 +57,10 @@ sus-archy@warroom:~$ ./init_session.sh --analyst
 
 | PROJECT          | BRIEF                                                  | STATE                                                                       |
 | :--------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------- |
-| [`MOB_pentest`](https://github.com/sus-archy/MOB_pentest) | Mobile application penetration testing toolkit &amp; methodology | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
+| [`MOB_pentest`](https://github.com/theOnlyErroX-404/MOB_pentest) | Mobile application penetration testing toolkit &amp; methodology | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
 | [`deltati-api`](https://github.com/codextechorg/deltati-api) | Backend API for graduation project (codextechorg) | ![PRIVATE](https://img.shields.io/badge/PRIVATE-ff5252?style=flat-square) |
-| [`Log-Analyzer`](https://github.com/sus-archy/Log-Analyzer) | Log parsing &amp; analysis for SIEM triage and DFIR investigations | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
-| [`Android-Forensics`](https://github.com/sus-archy/Android-Forensics) | Android artifact acquisition &amp; mobile forensics research | ![RESEARCH](https://img.shields.io/badge/RESEARCH-e6edf3?style=flat-square) |
+| [`Log-Analyzer`](https://github.com/theOnlyErroX-404/Log-Analyzer) | Log parsing &amp; analysis for SIEM triage and DFIR investigations | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
+| [`Android-Forensics`](https://github.com/theOnlyErroX-404/Android-Forensics) | Android artifact acquisition &amp; mobile forensics research | ![RESEARCH](https://img.shields.io/badge/RESEARCH-e6edf3?style=flat-square) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
 
@@ -121,20 +121,20 @@ sus-archy@warroom:~$ ./init_session.sh --analyst
 ## ⟦ 06 ⟧ GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sus-archy&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=theOnlyErroX-404&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub trophies">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sus-archy&amp;show_icons=true&amp;hide_border=true&amp;cache_seconds=1800&amp;hide=prs,issues&amp;bg_color=0d1117&amp;title_color=ffb000&amp;icon_color=ff5252&amp;text_color=e6edf3&amp;ring_color=ffb000" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sus-archy&amp;layout=compact&amp;hide_border=true&amp;cache_seconds=1800&amp;bg_color=0d1117&amp;title_color=ffb000&amp;text_color=e6edf3" alt="Top languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=theOnlyErroX-404&amp;show_icons=true&amp;hide_border=true&amp;cache_seconds=1800&amp;hide=prs,issues&amp;bg_color=0d1117&amp;title_color=ffb000&amp;icon_color=ff5252&amp;text_color=e6edf3&amp;ring_color=ffb000" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theOnlyErroX-404&amp;layout=compact&amp;hide_border=true&amp;cache_seconds=1800&amp;bg_color=0d1117&amp;title_color=ffb000&amp;text_color=e6edf3" alt="Top languages" height="170">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sus-archy&amp;hide_border=true&amp;background=0d1117&amp;ring=ffb000&amp;fire=ff5252&amp;currStreakLabel=ffb000&amp;sideLabels=e6edf3&amp;dates=8b949e&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=theOnlyErroX-404&amp;hide_border=true&amp;background=0d1117&amp;ring=ffb000&amp;fire=ff5252&amp;currStreakLabel=ffb000&amp;sideLabels=e6edf3&amp;dates=8b949e&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3" alt="GitHub streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sus-archy&amp;bg_color=0d1117&amp;color=e6edf3&amp;line=ffb000&amp;point=ff5252&amp;area=true&amp;area_color=ffb000&amp;hide_border=true&amp;custom_title=Commit%20Activity%20::%20Signal%20Analysis" alt="Commit activity graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theOnlyErroX-404&amp;bg_color=0d1117&amp;color=e6edf3&amp;line=ffb000&amp;point=ff5252&amp;area=true&amp;area_color=ffb000&amp;hide_border=true&amp;custom_title=Commit%20Activity%20::%20Signal%20Analysis" alt="Commit activity graph" width="100%">
 </div>
 
 <!-- ▒▒ OUTRO ▒▒ -->
